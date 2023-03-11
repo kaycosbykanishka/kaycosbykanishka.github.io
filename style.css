@@ -1,0 +1,67 @@
+body{
+background-color: white;
+font-family: 'montserrat', sans-serif;
+font-size: 27px;
+color: black;
+}
+
+img{
+    height: 720px;
+    width: 520px;
+}
+
+.bg{
+    text-align: center;
+    margin-top: -35px;
+    margin-left: -20px;
+    background-color: #ecd7e0;
+}
+
+.kaycos{
+    margin-top: -170px;
+    margin-left: 375px;
+    font-size: 50px;
+    font-weight:600;
+    color: #8A1F15
+}
+
+.footer .bg{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 25px;
+    font-weight: 100;
+    color: white;
+    background-color: white;
+    
+    
+}
+
+.bottom{
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    margin-top: -60px;
+    margin-bottom: 70px;
+    margin-left: 430px;
+    background-color: lightpink;
+}
+
+.footer2{
+    text-align: center;
+    margin-top: -80px;
+    font-family: 'windsong';
+    font-size: 40px;
+}
+
+.owner{
+    font-size: medium;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
